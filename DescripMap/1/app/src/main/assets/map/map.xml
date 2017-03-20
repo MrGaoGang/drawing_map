@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Image Format="png" Overlap="1" TileSize="256">
+    <Size Height="2351" Width="3518"/>
+
+    <CalibrationRect>
+        <Point x="855" y="526" lon="106.610286" lat="29.53451" topLeft="1"/>
+        <!--重邮二号门的坐标（纬度lat，经度lon）-->
+        <Point x="1959" y="1949" lon="106.603044" lat="29.530025" bottomRight="1" />
+        <!--重邮校医院的坐标（纬度lat，经度lon）-->
+        <Point x="1509" y="1843" lat="29.532274" lon="106.603806"/>
+        <!--重邮信科的坐标（纬度lat，经度lon）-->
+        <Point x="1711" y="1705" lat="29.53671" lon="106.611403"/>
+        <!--老校门的坐标（纬度lat，经度lon）-->
+        <Point x="1288" y="1762" lat="229.53304" lon="106.604273"/>
+        <!--新校门的坐标（纬度lat，经度lon）-->
+        <Point x="828" y="1623" lat="29.535374" lon="106.605249"/>
+        <!--二教的坐标（纬度lat，经度lon）-->
+        <Point x="1513" y="1374" lat="29.532699" lon="106.606724"/>
+        <!--15栋的坐标（纬度lat，经度lon）-->
+        <Point x="1597" y="752" lon="106.610007" lat="29.53171"/>
+    </CalibrationRect>
+
+</Image>
